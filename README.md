@@ -1,3 +1,3 @@
 # 运行结果
-![](https://pic.imgdb.cn/item/638b707b16f2c2beb15cf9ff.jpg)
-![](https://pic.imgdb.cn/item/638b701c16f2c2beb15c4256.jpg)
+![首页](https://github.com/YiYa02101920/ChaoZhouApp/blob/main/app/src/main/res/drawable-xxhdpi/yunxin.png)
+![景点介绍](https://github.com/YiYa02101920/ChaoZhouApp/blob/main/app/src/main/res/drawable-xxhdpi/result.png)
